@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5._1
 {
-    static class Program //Средний уровень
+    static class Program
     {
         static void Main(string[] args)
         {
